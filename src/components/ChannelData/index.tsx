@@ -44,8 +44,9 @@ const ChannelData: React.FC = () => {
       </Messages>
 
       <InputWrapper>
-        <Input type="text" placeholder= "Digite sua mensagem aqui"/>
-        <InputIcon />
+      
+     <Input  type="text" placeholder= "Digite sua mensagem aqui"/>
+     <InputIcon />
       </InputWrapper>
     </Container>
   );
